@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Jiawei.</h1>
+<h1 align="center">Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Jiawei</h1>
 
 I'm a Computer Scientist and Machine Learning Engineer passionate about building intelligent and secure systems that make a real-world impact.
 
@@ -7,19 +7,19 @@ I'm a Computer Scientist and Machine Learning Engineer passionate about building
 - 🧑‍🦽 Improving Activities of Daily Living (ADLs) with assistive AI
 - 🎨 Creating generative AI solutions for education, making learning more engaging and accessible
 
-My experience spans multiple fields, including:
+🧠 My experience spans multiple fields, including:
 - 🤖 Machine Learning & Symbolic and Neuro AI
 - 🔒 Networking & Cybersecurity
 - ⛓️ Blockchain technologies
 - ⚡ Electronics and Embedded Systems, IoT
 
-Outside of work, I’m passionate about:
-- ✈️ Traveling somewhere new
+🌍 Outside of work, I’m passionate about:
+- ✈️ Travelling somewhere new
 - 🏀 Playing outdoor activities
 - 🚗 Driving and road trips
 - 🏂 Snowboarding
 
-I am best reach out via [email](mailto:jw.zhengai@gmail.com). I'm always up for interesting conversations, new ideas and collaboration.
+I am best reached out via [email](mailto:jw.zhengai@gmail.com). I'm always up for interesting conversations, new ideas and collaboration.
 
 ### Languages and Tools
 
