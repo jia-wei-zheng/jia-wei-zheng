@@ -3,12 +3,12 @@
 I'm a Computer Scientist and Machine Learning Engineer passionate about building intelligent and secure systems that make a real-world impact.
 
 🔭 Right now, I am diving into applied AI research across some really cool areas:
-- 🏭 Making manufacturing smarter and more efficient, AI-driven automation
-- 🧑‍🦽 Improving Activities of Daily Living (ADLs) with assistive AI
+- 🏭 Large Language Models (LLM)-powered agent solutions in enterprise settings
+- 🧑‍🦽 Improving Activities of Daily Living (ADLs) with assistive AI and IoT
 - 🎨 Creating generative AI solutions for education, making learning more engaging and accessible
 
 🧠 My experience spans multiple fields, including:
-- 🤖 Machine Learning & Symbolic and Neuro AI
+- 🤖 Machine Learning, LLMs, and Symbolic AI
 - 🔒 Networking & Cybersecurity
 - ⛓️ Blockchain technologies
 - ⚡ Electronics and Embedded Systems, IoT
